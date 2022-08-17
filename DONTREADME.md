@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @theusi
+- 👀 I’m interested in AI art, generative art and all things visual.
+- 🌱 I’m currently learning Javascript, Typescript, React, and Python
+- 💞️ I’m looking to collaborate on artwork and apps that make artwork!
+- 📫 How to reach me == 6xtheus@gmail.com // TWITTER/IG == @0xteu
